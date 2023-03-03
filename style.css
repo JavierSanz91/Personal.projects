@@ -1,0 +1,26 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    color: black;
+}
+
+.header-left {
+    text-align: left;
+    font-family: montserrat-medium;
+}
+
+.header-right {
+    text-align: right;
+}
+
+img {
+    width: 350px;
+    height: 500px;
+    object-fit: cover;
+}
+
+footer {
+    text-align: center;
+}
